@@ -7,62 +7,53 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language>
     <copyright>&amp;copy; Copyright notice</copyright>
-    <lastBuildDate>Wed, 02 Apr 2014 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 24 May 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>development</title>
-      <link>/tags/development/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <title>about</title>
+      <link>/tags/about/</link>
+      <pubDate>Sun, 24 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>/tags/development/</guid>
+      <guid>/tags/about/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>go</title>
-      <link>/tags/go/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <title>fati</title>
+      <link>/tags/fati/</link>
+      <pubDate>Sun, 24 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>/tags/go/</guid>
+      <guid>/tags/fati/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>golang</title>
-      <link>/tags/golang/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <title>fatiboi</title>
+      <link>/tags/fatiboi/</link>
+      <pubDate>Sun, 24 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>/tags/golang/</guid>
+      <guid>/tags/fatiboi/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>hugo</title>
-      <link>/tags/hugo/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <title>I</title>
+      <link>/tags/i/</link>
+      <pubDate>Sun, 24 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>/tags/hugo/</guid>
+      <guid>/tags/i/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>templates</title>
-      <link>/tags/templates/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <title>me</title>
+      <link>/tags/me/</link>
+      <pubDate>Sun, 24 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>/tags/templates/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>themes</title>
-      <link>/tags/themes/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/themes/</guid>
+      <guid>/tags/me/</guid>
       <description></description>
     </item>
     
